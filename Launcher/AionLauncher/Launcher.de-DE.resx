@@ -231,16 +231,16 @@ STARTEN
     <value>Ihr Auftraggeber ist Outaded oder zu neu. Wir werden es für Sie aktualisieren.</value>
   </data>
   <data name="MsgVersionCreate" xml:space="preserve">
-    <value>Fehler beim version.ini zugreifen .. Neues für Sie.</value>
+    <value>Fehler beim lesen der version.ini ... Erneut versuchen.</value>
   </data>
   <data name="MsgVersionCreate1" xml:space="preserve">
-    <value>Fehler: Zugriff version.ini</value>
+    <value>Fehler: Zugriff auf version.ini</value>
   </data>
   <data name="MsgVersionError" xml:space="preserve">
     <value>Ungültige version.ini</value>
   </data>
   <data name="MsgVersionError1" xml:space="preserve">
-    <value>Fehler: ungültige version.ini</value>
+    <value>Fehler: Ungültige version.ini</value>
   </data>
   <data name="btnLaunch.Text.ccl" xml:space="preserve">
     <value>ABBRUCH EIN
