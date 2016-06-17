@@ -1,6 +1,8 @@
 # U3J-Aion Launcher Beta:
 ![alt tag](http://data.nimages.fr/logoe2o.jpg)
 
+Der für mein Empfinden beste Open Source Launcher im Netz. Wie beim Core auch wussten die Leute von U3J mit ihrem können zu überzeugen. Schade das es dieses Team nicht mehr gibt.
+
 Automatically exported from code.google.com/p/aion-launcher-beta
 Aion-Launcher is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
